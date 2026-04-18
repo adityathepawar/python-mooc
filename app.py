@@ -227,4 +227,4 @@ if st.session_state.submitted:
 
     if score == len(questions):
         st.balloons()
-st.write("Badle Jo Dekhke Mahol - FUK EM ALL FUK EM ALL")
+st.write("Aviator fuddu game aa Koi na load kariyo")
